@@ -47,7 +47,9 @@ python llm_flask_api.py
 **3. Run the Flutter App**
 
 bash
+
 flutter pub get
+
 flutter run
 
 **4. (Optional) Test the API Directly**
@@ -55,6 +57,7 @@ flutter run
 Run the Python test client:
 
 bash
+
 python client.py
 
 **📂 Project Structure**
