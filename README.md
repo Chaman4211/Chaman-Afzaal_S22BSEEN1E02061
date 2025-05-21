@@ -5,6 +5,7 @@ A simple chat application that connects a Flutter frontend to a local GPT-2 mode
 This project demonstrates how to integrate a Flutter mobile app with a Python Flask API that serves a GPT-2 language model for text generation. The system allows users to input prompts and receive AI-generated responses in real time.
 
 **✨ Key Features**
+
 ✅ Flutter UI – Clean and responsive interface for text input and response display
 
 ✅ Flask API – RESTful backend that processes requests using the Hugging Face transformers library
