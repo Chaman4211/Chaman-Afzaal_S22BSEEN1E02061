@@ -41,11 +41,13 @@ python llm_flask_api.py
 (API runs at http://localhost:5000)
 
 **3. Run the Flutter App**
+
 bash
 flutter pub get
 flutter run
 
 **4. (Optional) Test the API Directly**
+
 Run the Python test client:
 
 bash
@@ -70,13 +72,14 @@ python client.py
 
 
 **📜 License**
+
 This project is open-source under the MIT License.
 
 **🔗 Useful Links**
-Flutter Documentation:docs.flutter.dev
+Flutter Documentation: docs.flutter.dev
 
-Flask Documentation:docs.defang.io/docs
+Flask Documentation: docs.defang.io/docs
 
-Hugging Face Transformers:huggingface.co/docs
+Hugging Face Transformers: huggingface.co/docs
 
 
