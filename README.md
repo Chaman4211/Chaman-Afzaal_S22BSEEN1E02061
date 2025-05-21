@@ -6,9 +6,13 @@ This project demonstrates how to integrate a Flutter mobile app with a Python Fl
 
 **✨ Key Features**
 ✅ Flutter UI – Clean and responsive interface for text input and response display
+
 ✅ Flask API – RESTful backend that processes requests using the Hugging Face transformers library
+
 ✅ GPT-2 Model – Generates text responses based on user prompts
+
 ✅ Cross-Platform – Works on Android, iOS, and web (with additional setup)
+
 ✅ Test Client – Python script (client.py) to manually test the API
 
 **🛠️ Tech Stack**
@@ -22,8 +26,9 @@ Networking	HTTP (Flutter http package)
 
 **1. Clone the Repository**
 bash
-git clone https://github.com/yourusername/llm-chat-flutter-flask.git
+git clone https://github.com/Chaman4211/llm-chat-flutter-flask.git
 cd llm-chat-flutter-flask
+
 **2. Set Up the Flask API**
 Install Python dependencies:
 
