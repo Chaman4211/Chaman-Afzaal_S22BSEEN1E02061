@@ -52,14 +52,22 @@ bash
 python client.py
 
 **📂 Project Structure**
+
 .
 ├── lib/                  # Flutter app source code
+
 │   └── main.dart         # Main Flutter UI & logic
+
 ├── llm_flask_api.py      # Flask API with GPT-2
+
 ├── client.py             # Python API test client
+
 ├── pubspec.yaml          # Flutter dependencies
+
 ├── README.md             # Project documentation
+
 └── ...                   # Other config files
+
 
 **📜 License**
 This project is open-source under the MIT License.
