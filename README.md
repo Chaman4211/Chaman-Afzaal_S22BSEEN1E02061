@@ -73,10 +73,10 @@ python client.py
 This project is open-source under the MIT License.
 
 **🔗 Useful Links**
-Flutter Documentation
+Flutter Documentation:docs.flutter.dev
 
-Flask Documentation
+Flask Documentation:docs.defang.io/docs
 
-Hugging Face Transformers
+Hugging Face Transformers:huggingface.co/docs
 
 
