@@ -2,6 +2,7 @@
 A simple chat application that connects a Flutter frontend to a local GPT-2 model via a Flask API.
 
 **📌 Overview**
+
 This project demonstrates how to integrate a Flutter mobile app with a Python Flask API that serves a GPT-2 language model for text generation. The system allows users to input prompts and receive AI-generated responses in real time.
 
 **✨ Key Features**
@@ -17,6 +18,7 @@ This project demonstrates how to integrate a Flutter mobile app with a Python Fl
 ✅ Test Client – Python script (client.py) to manually test the API
 
 **🛠️ Tech Stack**
+
 Component	Technology
 Frontend	Flutter (Dart)
 Backend	Flask (Python)
@@ -26,11 +28,13 @@ Networking	HTTP (Flutter http package)
 **⚙️ Setup & Usage**
 
 **1. Clone the Repository**
+
 bash
 git clone https://github.com/Chaman4211/llm-chat-flutter-flask.git
 cd llm-chat-flutter-flask
 
 **2. Set Up the Flask API**
+
 Install Python dependencies:
 
 bash
@@ -73,9 +77,11 @@ python client.py
 
 **📜 License**
 
+
 This project is open-source under the MIT License.
 
 **🔗 Useful Links**
+
 Flutter Documentation: docs.flutter.dev
 
 Flask Documentation: docs.defang.io/docs
